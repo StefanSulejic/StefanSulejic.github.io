@@ -28,3 +28,12 @@
         margin-left: auto;
         margin-right: auto;
     }
+
+    #center{
+        text-align: center;
+        padding: 20px;
+    }
+    a:link{
+        color: #0066ff;
+        text-decoration: none;
+    }
